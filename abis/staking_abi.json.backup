@@ -1,0 +1,13 @@
+[
+    {
+        "name": "deposit",
+        "type": "function",
+        "stateMutability": "nonpayable",
+        "inputs": [
+            { "name": "pid", "type": "uint256" },
+            { "name": "amount", "type": "uint256" },
+            { "name": "referrer", "type": "uint256" }
+        ],
+        "outputs": []
+    }
+]
