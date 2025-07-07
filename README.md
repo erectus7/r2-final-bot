@@ -1,6 +1,4 @@
-i# DeFi Automation Bot (Ethers v5)
-
-A modular bot script designed to automate various tasks on EVM-compatible networks, such as the Sepolia testnet. This bot uses Ethers.js v5 and features an interactive terminal interface to monitor balances and activity logs in real-time.
+i# R2-Final-Bot
 
 ---
 
