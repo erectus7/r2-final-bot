@@ -1,4 +1,4 @@
-# DeFi Automation Bot (Ethers v5)
+i# DeFi Automation Bot (Ethers v5)
 
 A modular bot script designed to automate various tasks on EVM-compatible networks, such as the Sepolia testnet. This bot uses Ethers.js v5 and features an interactive terminal interface to monitor balances and activity logs in real-time.
 
@@ -28,9 +28,8 @@ A modular bot script designed to automate various tasks on EVM-compatible networ
 ## 🚀 Installation
 
 1.  **Clone the Repository**
-    Replace `YOUR_REPOSITORY_URL` with your repository's URL.
     ```bash
-    git clone YOUR_REPOSITORY_URL
+    git clone https://github.com/erectus7/r2-final-bot
     cd r2-final-bot
     ```
 
